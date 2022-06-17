@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="care_giver">Care Giver</string>
+    <string name="username">User Name</string>
+    <string name="login_in_to_continue">Login in to continue</string>
+    <string name="password">Password</string>
+    <string name="admin_registration">Admin Registration</string>
+    <string name="gmail_or_phone">Gmail or Phone Number</string>
+    <string name="confirmed_password">Confirmed Password</string>
+    <string name="not_register">Not Register?</string>
+    <string name="go_to_newsfeed">Go to Newsfeed</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="actions">Actions</string>
+    <string name="registration">Registration</string>
+    <string name="add_news_feed">Add News Feed</string>
+    <string name="set_alarm_time">Set Alarm Time</string>
+    <string name="search_hospital">Search Hospital</string>
+    <string name="name">Name</string>
+    <string name="name_">Name :</string>
+    <string name="instruction">Instruction</string>
+    <string name="caution">Caution</string>
+    <string name="photo_path">Photo Path</string>
+    <string name="save">Save</string>
+    <string name="alarm_time">Alarm Time</string>
+    <string name="add">Add</string>
+    <string name="time">Time</string>
+  <!--  <string name="google_maps_key">AIzaSyCo2dzASJ4_8KR5LOvpqdTU0OufUQY0qoE</string>-->
+    <string name="google_maps_key">AIzaSyDmIY8sHoKqhihC1RfCptYut5GyQ4yigM4</string>
+    <string name="get_nearby_hospital">Get Nearby Hospital</string>
+</resources>
